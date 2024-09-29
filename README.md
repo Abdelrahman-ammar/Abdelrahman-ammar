@@ -46,7 +46,7 @@
 - Ai Enginner , covering various fields (AI , NLP , CV , ML , DL)
 - Backend Developer :
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeJS)&nbsp;
+  ![NodeJS](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Ammar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
