@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif">
+<img width="500" align="right" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif">
 
 <h3 align="center">
   Welcome to Abdelrahman Yasser's profile!
