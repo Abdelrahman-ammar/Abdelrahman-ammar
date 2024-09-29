@@ -42,6 +42,12 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
+### Experience:
+- Ai Enginner , covering various fields (AI , NLP , CV , ML , DL)
+- Backend Developer :
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeJS)&nbsp;
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Ammar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
