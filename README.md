@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,100:0c1a3a&height=220&section=header&text=Abdelrahman%20Ammar&fontSize=52&fontColor=38bdf8&fontAlignY=36&desc=AI%20Developer%20%7C%20Data%20Scientist%20%7C%20NLP%20%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+LangGraph+%7C+MCP;NLP+Systems+%7C+Remote+Sensing+%7C+Full-Stack+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+LangGraph+%7C+MCP;NLP+Systems+%7C+Remote+Sensing+%7C+Building+and+shipping+Software+around+AI+systems" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -112,7 +112,7 @@ print(me.mission())
 | 🔌 **MCP Client & QGIS Server** (`learn_mcp_qgis`) | Custom MCP client (Streamlit) with OAuth2.1 verification and Dynamic Client Registration, connecting to Atlassian Jira and a QGIS MCP server backed by local Ollama models | Streamlit · MCP · OAuth2.1 · QGIS · Ollama |
 | 🪪 **Egyptian ID Card Detection Pipeline** | YOLOv11-based computer vision pipeline for ID card detection, with OpenCV perspective correction for OCR prep | YOLOv11 · OpenCV · Roboflow |
 | 🛒 **AI Shopping Assistant** | Chrome extension using an LLM agent with tool-calling to compare prices across noon and Amazon | FastAPI · Playwright · LangChain |
-| ⚙️ **CI/CD Pipeline: FastAPI → Azure** | Hand-written GitHub Actions workflow deploying a FastAPI app to Azure App Service (Linux) | GitHub Actions · Azure App Service · FastAPI |
+| ⚙️ **CI/CD Pipeline Azure** | GitHub Actions and Azure DevOps workflows deploying systems Azure Resources | GitHub Actions · Azure Services · Azure DevOps |
 
 ---
 
