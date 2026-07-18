@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,100:0c1a3a&height=220&section=header&text=Abdelrahman%20Ammar&fontSize=52&fontColor=38bdf8&fontAlignY=36&desc=AI%20Developer%20%7C%20Data%20Scientist%20%7C%20NLP%20%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+LangGraph+%7C+MCP;NLP+Systems+%7C+Remote+Sensing+%7C+Shipping+Software+around+AI+systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+LangGraph+%7C+MCP;NLP+Systems+%7C+Remote+Sensing+%7C+Full-Stack+AI;Shipping+Software+Around+AI+Systems" alt="Typing SVG" /></a>
 
 <br/><br/>
 
